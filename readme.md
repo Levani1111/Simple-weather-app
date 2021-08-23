@@ -10,7 +10,8 @@ This is Simple-weather-app that fetching data from the openweathermap API. It di
 
 ### Deployed
 
-[netlify](https://app.netlify.com/)
+* [netlify](https://app.netlify.com/)
+* https://tehweather.netlify.app/
 
 <hr/>
 
